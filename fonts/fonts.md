@@ -1,10 +1,8 @@
-<link rel="stylesheet" type="text/css" href="../../../../library/css/global/main.css" media="screen" />
-
 # Fonts #
 
 ### Contents ###
 
-1. [Browser Formats](#broswer-formats)
+1. [Browser Formats](#browser-formats)
 2. [Font Face](#font-face)
 3. [Served Fonts vs. Self Hosted](#served-and-self-hosted)
 4. [Quirks](#quirks)
