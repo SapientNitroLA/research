@@ -2,14 +2,14 @@
 
 | Social network	| Authentication type	| Button terms of use  | API |
 | -----------------	| ---------------------	| -------------------- | --- |
-|[ Facebook](#facebook)	| OAuth 2.0			| Cannot modify        | JavaScript / PHP / iOS / Android / Unity |
+| [Facebook](#facebook)	| OAuth 2.0			| Cannot modify        | JavaScript / PHP / iOS / Android / Unity |
 | [Twitter](#twitter)	| OAuth 2.0			| Cannot modify        | REST / JavaScript |
 | [Vimeo](#vimeo)		| OAuth 2.0			| No official button   | JavaScript / PHP |
 | [LinkedIn](#linkedin)	| OAuth 2.0			| Cannot modify        | REST / JavaScript |
 | [Pinterest](#pinterest) | Unknown (user auth uses OAuth) | Brand guidelines do not permit alteration of icon or logotype | Limited - REST only (API closed) |
 | [Tumblr](#tumblr)		| OAuth 2.0			| Unable to find but source added from iframe | Javascript / Ruby / PHP / Java / Python / Objective-C |
 | [Google+](#googleplus) | OAuth 2.0		| Cannot modify        | JavaScript |
-| [Flickr](#flickr)		| OAuth 1.0a		| Can't find any terms of use. Badge is just an image link. | REST / XML-RPC / SOAP (third-party API kits) |
+| [Flickr](#flickr)		| OAuth 1.0a		| Can't find any terms of use. Badge is just an image link. | REST / XML-RPC / SOAP (+third-party API kits) |
 | [YouTube](#youtube)	| OAuth 2.0			| Cannot modify        | JavaScript |
 | [Instagram](#instagram) | OAuth 2.0		| Site supplies camera icon to make your own badge       | JavaScript |
 | [Foursquare](#foursquare) | OAuth 2.0	| Cannot modify       | JavaScript |
@@ -18,6 +18,22 @@
 # Details
 -------------------------
 ## [Facebook](id:facebook)
+
+**<u>Plugins:</u>**
+
+- Like button
+- Like box
+- Share
+- Send
+- Follow
+- Posts
+- Comments
+- Feed
+- Recommendations feed
+- Recommendations bar
+- Facepile
+
+[https://developers.facebook.com/docs/plugins](https://developers.facebook.com/docs/plugins)
 
 **<u>Authorization:</u>**
 
@@ -41,6 +57,15 @@ JavaScript / PHP / iOS / Android / Unity
 
 -------------------------
 ## [Twitter](id:twitter)
+
+**<u>Plugins:</u>**
+
+- Share a link
+- Follow
+- Hashtag
+- Mention
+
+[https://about.twitter.com/resources/buttons](https://about.twitter.com/resources/buttons)
 
 **<u>Authorization:</u>**
 
@@ -105,6 +130,16 @@ REST / JavaScript
 -------------------------
 ## [Pinterest](id:pinterest)
 
+**<u>Plugins:</u>**
+
+- Pin It button
+- Follow button
+- Pin widget
+- Profile widget
+- Board widget
+
+[http://business.pinterest.com/widget-builder](http://business.pinterest.com/widget-builder)
+
 **<u>Authorization:</u>**
 
 Unknown (user authentication uses OAuth)
@@ -126,6 +161,14 @@ Limited - REST only.  API closed.
 -------------------------
 ## [Tumblr](id:tumblr)
 
+**<u>Plugins:</u>**
+
+- Follow
+- Share
+
+[http://www.tumblr.com/buttons](http://www.tumblr.com/buttons)
+
+
 **<u>Authorization:</u>**
 
 OAuth 2.0
@@ -144,6 +187,17 @@ Javascript / Ruby / PHP / Java / Python / Objective-C
 
 -------------------------
 ## [Google+](id:googleplus)
+
+**<u>Plugins:</u>**
+
+- +1 button
+- Share
+- Snippet
+- Badge
+- Embed posts
+- Follow button
+
+[https://developers.google.com/+/web/](https://developers.google.com/+/web/)
 
 **<u>Authorization:</u>**
 
@@ -193,6 +247,10 @@ Everything?
 -------------------------
 ## [YouTube Subscribe Button](id:youtube)
 
+**<u>Plugins:</u>**
+
+[https://developers.google.com/youtube/youtube_subscribe_button](https://developers.google.com/youtube/youtube_subscribe_button)
+
 **<u>Authorization:</u>**
 
 OAuth 2.0
@@ -213,6 +271,10 @@ JavaScript
 
 -------------------------
 ## [Instagram](id:instagram)
+
+**<u>Plugins:</u>**
+
+[http://instagram.com/accounts/badges/](http://instagram.com/accounts/badges/)
 
 **<u>Authorization:</u>**
 
@@ -236,6 +298,13 @@ JavaScript
 
 -------------------------
 ## [Foursquare](id:foursquare)
+
+**<u>Plugins:</u>**
+
+- Follow button
+- Save to Foursquare button
+
+[https://foursquare.com/buttons/followbutton](https://foursquare.com/buttons/followbutton)
 
 **<u>Authorization:</u>**
 
