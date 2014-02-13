@@ -13,6 +13,7 @@
 | [YouTube](#youtube)	| OAuth 2.0			| Cannot modify        | JavaScript |
 | [Instagram](#instagram) | OAuth 2.0		| Site supplies camera icon to make your own badge       | JavaScript |
 | [Foursquare](#foursquare) | OAuth 2.0	| Cannot modify       | JavaScript |
+| [Weibo](#weibo) 		| OAuth 1.0a		| Unknown             | Almost everything |
 
 
 # Details
@@ -323,5 +324,36 @@ Unable to modify.
 Most
 
 [https://developer.foursquare.com/resources/libraries](https://developer.foursquare.com/resources/libraries)
+
+[BACK TO TOP](#top)
+
+-------------------------
+## [Weibo](id:weibo)
+
+**<u>Plugins:</u>**
+
+- Like button
+- Share button
+- Concerned button
+
+[http://open.weibo.com/widgets?cat=wb](http://open.weibo.com/widgets?cat=wb)
+
+**<u>Authorization:</u>**
+
+OAuth 1.0a
+
+[http://open.weibo.com/wiki/Oauth/en](http://open.weibo.com/wiki/Oauth/en)
+
+**<u>Button terms of use:</u>**
+
+Unable to find.
+
+**<u>API:</u>**
+
+Most
+
+[http://open.weibo.com/wiki/%E5%BE%AE%E5%8D%9AAPI](http://open.weibo.com/wiki/%E5%BE%AE%E5%8D%9AAPI)
+
+[http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en)
 
 [BACK TO TOP](#top)
